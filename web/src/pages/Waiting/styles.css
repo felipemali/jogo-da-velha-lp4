@@ -1,0 +1,27 @@
+.container-waiting {
+}
+.title-waiting {
+  color: #fff;
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 32px;
+  margin: 0;
+}
+.area-info {
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+}
+.area-info button {
+  padding: 0.5rem 4rem;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  border: 0;
+}
+.area-info p {
+  color: #fff;
+}
